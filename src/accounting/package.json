@@ -1,0 +1,19 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Node.js port of the COBOL account management sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --colors"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
